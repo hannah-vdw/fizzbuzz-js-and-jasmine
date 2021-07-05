@@ -3,7 +3,7 @@ describe("fizzbuzz", () => {
   let fizzbuzz
 
   beforeEach(() => {
-    fizzbuzz = new fizzbuzz();
+    fizzbuzz = new Fizzbuzz;
   })
 
   describe("multiples of three", () => {
